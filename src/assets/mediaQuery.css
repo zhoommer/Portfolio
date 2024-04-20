@@ -1,0 +1,26 @@
+@media only screen and (max-width: 767px) {
+  body {
+    font-size: 12px;
+  }
+  #expense-table {
+    table-layout: auto;
+  }
+
+  .profile > img {
+    width: 45px !important;
+    height: 45px !important;
+  }
+
+  .logo {
+    left: 10px !important;
+  }
+
+  .logo > img {
+    width: 35px;
+    height: 35px;
+  }
+
+  .daily-expense-toggle-form {
+    width: 80%;
+  }
+}

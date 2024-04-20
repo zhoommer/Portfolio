@@ -1,0 +1,161 @@
+{
+  "todos": [
+    {
+      "title": "ToDo 1",
+      "description": "Description 1",
+      "complated": false,
+      "createdDate": "",
+      "id": "5e32"
+    },
+    {
+      "title": "ToDo 2",
+      "description": "Description 2",
+      "complated": false,
+      "createdDate": "",
+      "id": "eedc"
+    },
+    {
+      "title": "ToDo 3",
+      "description": "Description 3",
+      "complated": false,
+      "createdDate": "",
+      "id": "9637"
+    },
+    {
+      "title": "ToDo 4",
+      "description": "Description 4",
+      "complated": false,
+      "createdDate": "",
+      "id": "0da5"
+    },
+    {
+      "title": "ToDo 5",
+      "description": "Description 5",
+      "complated": false,
+      "createdDate": "",
+      "id": "7dd5"
+    },
+    {
+      "id": "c783",
+      "title": "Todo 6",
+      "description": "Description 6",
+      "createdDate": "4/10/2024, 5:36:18 AM"
+    },
+    {
+      "id": "bea9",
+      "title": "Todo 7",
+      "description": "Description 7",
+      "createdDate": "4/10/2024, 5:36:46 AM"
+    },
+    {
+      "id": "93d3",
+      "title": "Todo 8",
+      "description": "Description 8",
+      "createdDate": "4/10/2024, 5:37:23 AM"
+    },
+    {
+      "id": "1d7f",
+      "title": "Todo 9",
+      "description": "Description 9",
+      "createdDate": "4/10/2024, 5:49:30 AM"
+    },
+    {
+      "id": "f5dc",
+      "title": "Todo 10",
+      "description": "Description 10",
+      "createdDate": "4/10/2024, 5:50:28 AM"
+    },
+    {
+      "id": "6bc0",
+      "title": "Todo 11",
+      "description": "Description 11",
+      "createdDate": "4/10/2024, 5:51:44 AM"
+    },
+    {
+      "id": "f76e",
+      "title": "Todo 12",
+      "description": "Description 12",
+      "createdDate": "4/12/2024, 11:56:43 PM"
+    },
+    {
+      "id": "efb4",
+      "title": "Todo 13",
+      "description": "Description 13",
+      "createdDate": "4/13/2024, 12:59:09 AM"
+    }
+  ],
+  "expense": [
+    {
+      "id": "2b86",
+      "amount": "1",
+      "price": "63",
+      "paymentType": "cash",
+      "category": "tobacco",
+      "product": "Kent d range grey",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "243b",
+      "amount": "1",
+      "price": "1200",
+      "paymentType": "cash",
+      "category": "clothes",
+      "product": "Jean Jacket",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "f180",
+      "amount": "1",
+      "price": "63",
+      "paymentType": "cash",
+      "category": "tobacco",
+      "product": "Kent d range grey",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "4610",
+      "amount": "1",
+      "price": "100",
+      "paymentType": "cash",
+      "category": "travel",
+      "product": "Istanbul Kart",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "84e2",
+      "amount": "1",
+      "price": "15",
+      "paymentType": "cash",
+      "category": "market",
+      "product": "Negro",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "cdd8",
+      "amount": "1",
+      "price": "6999",
+      "paymentType": "creditCard",
+      "category": "electronic",
+      "product": "Notebook",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "27ab",
+      "amount": "1",
+      "price": "1100",
+      "paymentType": "cash",
+      "category": "clothes",
+      "product": "Jean",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    },
+    {
+      "id": "0614",
+      "amount": "1",
+      "price": "500",
+      "paymentType": "cash",
+      "category": "cosmetic",
+      "product": "Benpanthol Nemlendirici Krem",
+      "createdDate": "function toLocaleString() {\n    [native code]\n}"
+    }
+  ]
+}
